@@ -1,7 +1,7 @@
 # Daryo news  Project UI
 
 # Drawer
-![](ui_images/ui1.jpg)
+<img src="ui_images/ui1.jpg" width = 420 height = 840 >
 
 # News List
-![](ui_images/ui2.jpg)
+<img src="ui_images/ui2.jpg" width = 420 height = 840 >
