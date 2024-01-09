@@ -18,7 +18,6 @@ class _MyDrawerState extends State<MyDrawer> {
         children: [
           MyDrawerHeader(),
           MyDrawerBody(),
-
         ],
       ),
     );
